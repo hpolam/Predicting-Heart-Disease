@@ -70,6 +70,14 @@ Heart disease is a leading cause of death globally. Early prediction using patie
 
 ---
 
+## 🚀 Future Work
+
+- Add larger datasets
+- Experiment with logistic regression, SVM, or XGBoost
+- Deploy as a web app (e.g., Streamlit)
+
+---
+
 ## 🧪 How to Run
 
 1. Clone this repo:
