@@ -54,9 +54,9 @@ Heart disease is a leading cause of death globally. Early prediction using patie
 
 | Model          | Accuracy | Notes |
 |----------------|----------|-------|
-| Decision Tree  | ~X.XX%   | Overfit on training data |
-| Random Forest  | ~X.XX%   | Balanced performance |
-| **KNN**        | **~X.XX%** | Highest performance overall |
+| Decision Tree  | ~73%   | Overfit on training data |
+| Random Forest  | ~85%   | Balanced performance |
+| **KNN**        | **~87%** | Highest performance overall |
 
 
 ---
@@ -73,8 +73,9 @@ Heart disease is a leading cause of death globally. Early prediction using patie
 ## 🚀 Future Work
 
 - Add larger datasets
-- Experiment with logistic regression, SVM, or XGBoost
-- Deploy as a web app (e.g., Streamlit)
+- Experiment with logistic regression, SVM, or neural networks
+- Continue experimenting with hyperparameterization
+- Deploy as a web app 
 
 ---
 
